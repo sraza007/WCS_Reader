@@ -1,0 +1,24 @@
+{
+  "name": "WCS_Reader",
+  "label": "WCS Profile Reader",
+  "type": "widget",
+  "version": "1.17.0",
+  "exbVersion": "1.17.0",
+  "author": "Antigravity",
+  "description": "WCS Profile Reader",
+  "properties": {
+    "hasConfig": true
+  },
+  "translatedLocales": [
+    "default"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  },
+  "defaultConfig": {
+    "wcsUrl": "",
+    "layerName": "",
+    "samplePoints": 50
+  }
+}
